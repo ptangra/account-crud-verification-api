@@ -1,5 +1,5 @@
 .vs
 /account-crud-verification-api/obj
 /account-crud-verification-api/bin
-/account-crud-verification-api/Migrations
+/account-crud-verification-api/Migrations/
 /account-crud-verification-api/LocalDatabase.db
